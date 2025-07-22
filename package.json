@@ -1,0 +1,23 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "opisanie",
+  "main": "file.js",
+  "scripts": {
+    "start": "node ./path.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Micro-Duna/Market_Place.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Micro-Duna/Market_Place/issues"
+  },
+  "homepage": "https://github.com/Micro-Duna/Market_Place#readme",
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "dotenv": "^17.2.0"
+  }
+}
